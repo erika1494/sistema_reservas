@@ -1,7 +1,7 @@
 <?php
 
 namespace App;
-#This
+#This is the life
 use Illuminate\Foundation\Auth\User as Authenticatable;
 
 class User extends Authenticatable

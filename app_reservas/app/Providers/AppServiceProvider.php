@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Reservas\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,0 +1,2 @@
+composer install   // Instala todas las dependencias
+php artisan migrate // Sincroniza la base de datos (previamente creada)

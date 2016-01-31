@@ -11,9 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/','BaseController@index');
+Route::get('login','BaseController@login');
+Route::get('admin','BaseController@admin');
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 /*
 |--------------------------------------------------------------------------
